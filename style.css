@@ -1,0 +1,22 @@
+body{
+    font-family: 'Varela Round', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.name-highlight{
+    color:rgb(238, 144, 56);
+}
+
+.upper{
+    width:41%;
+    float:left;
+    padding: 2%;
+    margin: 2%;
+}
+
+.upper img{
+    width: 100%;
+}
